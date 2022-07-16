@@ -6,7 +6,7 @@ import Loader from 'shared/components/Loader/Loader';
 import Button from 'modules/Button/Button';
 import Modal from 'shared/components/Modal/Modal';
 
-import { getImagesList} from 'shared/services/api/getImages';
+import { getImagesList} from '../../shared/services/api/getImages';
 
 class Searchbar extends Component {
   state = {
