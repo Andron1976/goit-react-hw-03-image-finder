@@ -1,4 +1,4 @@
-import Searchbar from "modules/Searchbar";
+import Searchbar from "./modules/Searchbar/Searchbar";
 import styles from './shared/styles/styles.css';
 
 
